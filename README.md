@@ -1,3 +1,5 @@
+Edited for tese
+
 # DP3T Android Demo App
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://github.com/DP-3T/dp3t-app-android/blob/master/LICENSE)
